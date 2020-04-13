@@ -9,14 +9,9 @@ This API create, edit and delete repositories and communicate with Web Client(Re
 After Download this project, go to the folder of the project and run yarn inside the main folder.
 After that go to ios folder and run pod install
 
-In your project folder
+In your project folder to install all dependencies.
 ```
 yarn
 ```
-In ios Folder
 
-```
-cd ios // Navigate to Ios Folder
-pod install
-```
 Download Insomnia to simulate the HTTP Requests from [Insomnia WebSite](https://insomnia.rest/)
